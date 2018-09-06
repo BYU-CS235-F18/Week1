@@ -56,13 +56,19 @@ int main(int argc, char *argv[]) // Main function will start program and should 
   cout << endl;
 
   // Print out fishermen who have the type wanted
+  bool isFound = false;
   cout << "Type wanted: " << search << endl;
   for(int i=0; i < fishermen.size(); i++)
   {
     if(fishermen[i].getType() == search)
     {
+      isFound = true;
       cout << fishermen[i].getName() << " caught " << fishermen[i].getAmount() << " pounds of " << fishermen[i].getType() << endl;
     }
+  }
+  if(!isFound)
+  {
+    cout << "No " << search << endl;
   }
 
   return 0;
