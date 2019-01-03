@@ -1,0 +1,714 @@
+2019-12-12
+- Reminders
+    Lab 9 DUE TONIGHT
+    All late work DUE TOMORROW (University policy)
+    Take the final (15th through 20th)
+- Agenda
+    Final Review
+
+
+2019-12-10
+- Reminders
+    Lab 9 Due Wednesday 12/12 (last day of class)
+      I added some code for the toSortedString method (Part 6) to the Lab 9 README
+    All late work due 12/13 (University policy)
+    Next (final) class: Final Review
+- Agenda
+    Campuswire - My team is hiring a student web developer
+    Lab 9 - Pick a method you'd like to see implemented
+    Final Review
+      Any questions you have?
+      Object-Oriented Programming
+      Data Structures
+    Lab help
+x TODO
+    x Post code for operator[] override online after class
+
+
+2019-12-7
+- Reminders
+    Lab 9 Due Wednesday 12/12 (last day of class)
+    Everything (except Final) due 12/13 (University policy)
+    Final open 12/15 - 12/20
+- Agenda
+    Any Lab 9 questions?
+    Lab help queue
+
+
+2019-12-5
+- Reminders
+    Lab 8 DUE TONIGHT
+    Lab 9 Due Next Wednesday 12/12 (last day of class)
+    Everything (except Final) due 12/13 (University policy)
+      Late labs and readings MUST be turned in by end of day Thursday 12/13 to receive credit
+    Final open 12/15 - 12/20
+      One page notes (front and back)
+      Comprehensive (roughly 1/3 of material covers first half of semester, 2/3 covers second half)
+      Roughly 23% of final grade
+      Questions lock after answering
+- Agenda
+    Heapsort
+      Any questions?
+      Method
+      Time complexity
+      Memory
+    Labs
+      Lab 9 questions?
+      Help Queue
+
+
+2019-12-3
+- Reminders
+    Lab 8 DUE WEDNESDAY
+    Heapsort Reading DUE TONIGHT
+      Last reading!!!
+    Survey #4 DUE TONIGHT
+    Lab 9 Due Next Wednesday 12/12 (last day of class)
+    Everything (except Final) due 12/13 (University policy)
+      Late labs and readings MUST be turned in by end of day Thursday 12/13 to receive credit
+    Final open 12/15 - 12/20
+      One page notes (front and back)
+      Comprehensive (roughly 1/3 of material covers first half of semester, 2/3 covers second half)
+      Roughly 23% of final grade
+- Agenda
+    Heaps
+      Underlying structure of Priority Queue
+      Max VS Min
+      Adding (put in next available position, percolate up)
+        Max Heap - 50 12 18 24 62 48 70
+      Removing (move last node in BFS traversal up to root, percolate down)
+      Array implementation
+        Left child at index 2i+1
+        Right child at index 2i+2
+        Parent index at (i-1)/2 (integer division)
+x TODO
+    x Add Survey #4 to a module
+
+
+2019-11-30
+- Reminders
+    Heaps Reading DUE TONIGHT
+    Lab 8 Due Wednesday 12/5
+      Hopefully all that's left is finishing up remove and fixing up memory leaks
+    Heapsort Reading Due Monday
+      Last reading!!!
+    Survey #4 Due Monday
+    Lab 9 Due Following Wednesday 12/12 (last day of class)
+    Everything (except Final) due 12/13 (University policy)
+      Late labs and readings MUST be turned in by end of day Thursday 12/13 to receive credit
+    Final open 12/15 - 12/20
+      One page notes (front and back)
+      Comprehensive (roughly 1/3 of material covers first half of semester, 2/3 covers second half)
+      Roughly 23% of final grade
+- Agenda
+    Review hashing
+      Campuswire notes - Why 31 is used, C++ default hash
+      Any questions about hashing?
+      Hash Details Page
+    Lab 9 Intro
+      Lab 9 Specs
+      Operator Overloading Page
+    Lab Help (if time, but I'm not counting on it)
+
+
+2019-11-28
+- Reminders
+    Hashing Quiz DUE TONIGHT
+    Lab 8 Due Next Wednesday 12/5
+      I recommend having Constructor, Add, Rebalance, Rotate, Clear, Destructor methods done
+    Heaps Reading Due Friday
+- Agenda
+    Hashing Intro Reading Review
+    Examples of hash functions
+    Prep for Hashing Quiz
+
+
+2019-11-26
+- Reminders
+    Hashing Intro Reading DUE TONIGHT
+    Lab 8 Due Next Wednesday 12/5
+      I recommend having Constructor, Add, Rebalance, and Rotate methods done by tomorrow
+    Hashing Quiz Due Wednesday
+- Agenda
+    Lab 8 - AVL
+      Remove node with 2 children (remove, get inorder predecessor, rebalance, rotate)
+      Any specific cases for add or remove that you want to see?
+    Work on Lab 8
+
+
+2019-11-19
+- Reminders
+    Work on Lab 8
+- Agenda
+    Vote
+      AVL Remove
+      AVL Rebalance
+      Help Queue Labs 1-7
+      Technical Interview Questions
+
+
+2018-11-16
+- Reminders
+    Lab 7 DUE TONIGHT
+    Remember that Lab 8 is due 12/5 and that it is hard (So start on it BEFORE THANKSGIVING)
+- Agenda
+    AVL Rebalance
+    Lab 7 Help
+x TODO
+    x Update Canvas link for lab 8 to point to git main instead of README file
+
+
+2018-11-14
+- Reminders
+    Lab 7 DUE FRIDAY
+    No readings until after Thanksgiving (you're welcome!)
+    ... But remember that Lab 8 is due 12/5 and that it is hard (So start on it BEFORE THANKSGIVING)
+    Verifications through Lab 5 should be done
+- Agenda
+    Any general questions on Lab 7?
+    AVL Add/Remove
+    AVL Rebalance, Rotate Left, Rotate Right
+    BST Questions
+    Work on labs (if time)
+x TODO
+    x Help student with Lab 7 remotely
+    x Make sure that all AVL code in textbook is made available in Canvas
+    x Make sure that this code from class is made available in Canvas
+
+
+2018-11-12
+- Housekeeping
+    University withdraw deadline is TOMORROW. If you feel that you might fail this course, look into the possibility of withdrawing.
+    Withdrawing may help save your GPA.
+    Withdrawing does affect semester credit totals, which may affect tuition, financial aid, scholarships, international status, etc.
+- Reminders
+    AVL Add/Remove Reading DUE TONIGHT
+    Lab 7 DUE FRIDAY
+- Agenda
+    AVL Rotation
+      3, 6, 10, 13
+    BST Questions
+    Work on labs (if time)
+
+
+2018-11-09
+- Housekeeping
+    Lab 9 now available
+- Reminders
+    AVL Rotations Reading DUE TONIGHT
+    AVL Add/Remove Reading Due Monday
+    Lab 7 Due Next Friday 11/16
+- Agenda
+    AVL Intro
+    AVL Visualization
+    Lab 8 Intro
+
+
+2018-11-07
+- Housekeeping
+    Survey #3 results (very brief remarks)
+- Reminders
+    AVL Intro Reading DUE TONIGHT
+    AVL Rotations Reading Due Friday
+    Lab 7 Due Next Friday 11/16
+- Agenda
+    Lab 7 Intro
+      Go over specs, BSTInterface
+      NodeInterface.h and Node.h
+      Friend class
+      I recommend adding private methods that print out preorder, inorder, and postorder traversals of your tree for debugging
+    "Visualizing Binary Trees" page - https://www.cs.usfca.edu/~galles/visualization/BST.html
+    BSTs and Big O Reading
+      Find
+        Using Node*& versus Node*
+      Insert
+    BST Modifications Reading
+      Insert (different way)
+      BST Remove
+
+
+2018-11-05
+- Reminders
+    Lab 6 DUE TONIGHT
+    BST Modifications Reading DUE TONIGHT
+      Warning: Long reading assignment, also super important for Lab 7
+    AVL Intro Reading Due Wednesday
+- Agenda
+    BST Search
+      Using Node*& versus Node*
+      Using find to determine whether or not a value is in the BST
+    BST Insert
+    Friend class
+    Work on labs
+
+
+2018-11-02
+- Reminders
+    BSTs and Big O Reading DUE TONIGHT
+    Lab 6 DUE MONDAY
+    BST Modifications Reading Due Monday
+      Warning: Long reading assignment, also super important for Lab 7
+- Agenda
+    Review
+      Graph -> Tree -> Binary Tree (BT) -> Binary Search Tree (BST)
+        Graph - Nodes and edges, can have cycles, can have isolated nodes/clusters, can be undirected or directed
+        Tree - A graph where all nodes have exactly one parent (except the root node, which has 0), no cycles, connected, finite
+        Binary Tree - A tree where all nodes have at most two children
+        Binary Search Tree - A binary tree where all nodes with smaller values than a node are in its left subtree and nodes with larger values are in its right subtree (ordered tree)
+      Depth/height
+        Depth - Root has depth of 1, add 1 for each generation down
+        Height - Leaf nodes have height of 1. For a node with children, take the height of its tallest child and add 1.
+      Traversals
+        Preorder - Visit, Traverse Left, Traverse Right
+        Inorder - Traverse Left, Visit, Traverse Right
+        Postorder - Traverse Left, Traverse Right, Visit
+        Breadth-first - Visit all nodes with a depth of 1, then all with depth of 2 from left to right, continue pattern until all nodes visited
+    Trees Classroom Activity
+      BT Compute size recursively (write code on board with help from class)
+      BT Compute height recursively (write code on board with help from class)
+    Work on labs (if time)
+
+
+2018-10-31
+- Reminders
+    Binary Tree Traversal Reading DUE TONIGHT
+    Survey #3 DUE TONIGHT
+    BSTs and Big O Reading Due Friday
+    Lab 6 DUE MONDAY
+- Agenda
+    Trees Classroom Activity
+    Work on labs (if time)
+
+
+2018-10-29
+- Reminders
+    Binary Tree Intro Reading DUE TONIGHT
+    Binary Tree Traversal Reading Due Wednesday
+    Survey #3 Due Wednesday
+    Lab 6 Due next Monday
+- Agenda
+    GDB and Valgrind Class Activity
+    Lab 6 UML
+    Lab 6 - Start coding
+    Work on Lab 6
+
+
+2018-10-26
+- Reminders
+    Lab 5 DUE TONIGHT
+    Binary Tree Intro Reading Due Monday
+- Agenda
+    Lab 6 Intro
+    Work on labs
+
+
+2018-10-24
+- Housekeeping
+    Canvas Grades
+      Blank scores for everything up through the midterm have now been replaced with 0, so your grade should be more accurate
+      Anyone who failed to turn in a lab verification got a 0 on the verfication AND the lab itself (see syllabus)
+      Remember late policy - 10% off per day late, up to 40% off (so labs 1-4 can still be submitted for 60% credit)
+      Please contact me to resolve any issues or concerns
+    Midterm - After careful deliberation, I decided to give 1/2 credit to those who reversed the stack order on the postfix evaluation question (5/7 instead of 3/7)
+    CS Colloquium on Grad School - Thursday 10/25 at 11:00, 1170 Talmage
+    Next time - Lab 6 intro and work on labs
+- Reminders
+    Templates Reading DUE TONIGHT
+    Lab 5 DUE FRIDAY
+- Agenda
+    Follow up on Linked List and Valgrind readings
+    Linked List Classroom Activity
+    Lab 5 (if time)
+
+
+2018-10-22
+- Housekeeping
+    CS Colloquium on Grad School - Thursday 10/25 at 11:00, 1170 Talmage
+- Reminders
+    Linked List Reading DUE TONIGHT
+    Valgrind Reading DUE TONIGHT
+    Templates Reading Due Wednesday
+    Lab 5 Due Friday
+- Agenda
+    Midterm Debrief
+    Finish MyVector (Exceptions and Valgrind activity)
+    Lab 5 (if time)
+x TODO
+    x Strongly consider giving points to those who consistently reversed the stack order
+    x Mads sorting quiz
+    x Alan Hamson recursive call order (11)
+
+
+2018-10-19
+- Housekeeping
+    CS Colloquium on Grad School - Thursday 10/25 at 11:00, 1170 Talmage
+    TAKE THE MIDTERM
+
+         .-') _                                 ('-.     .-') _     ('-.         _   .-')            _ .-') _   .-') _     ('-.  _  .-')  _   .-')      .-')
+        ( OO ) )                               ( OO ).-.(  OO) )  _(  OO)       ( '.( OO )_         ( (  OO) ) (  OO) )  _(  OO)( \( -O )( '.( OO )_   ( OO ).
+    ,--./ ,--,'  .-'),-----.        ,--.       / . --. //     '._(,------.       ,--.   ,--.) ,-.-') \     .'_ /     '._(,------.,------. ,--.   ,--.)(_)---\_)
+    |   \ |  |\ ( OO'  .-.  '       |  |.-')   | \-.  \ |'--...__)|  .---'       |   `.'   |  |  |OO),`'--..._)|'--...__)|  .---'|   /`. '|   `.'   | /    _ |
+    |    \|  | )/   |  | |  |       |  | OO ).-'-'  |  |'--.  .--'|  |           |         |  |  |  \|  |  \  ''--.  .--'|  |    |  /  | ||         | \  :` `.
+    |  .     |/ \_) |  |\|  |       |  |`-' | \| |_.'  |   |  |  (|  '--.        |  |'.'|  |  |  |(_/|  |   ' |   |  |  (|  '--. |  |_.' ||  |'.'|  |  '..`''.)
+    |  |\    |    \ |  | |  |      (|  '---.'  |  .-.  |   |  |   |  .--'        |  |   |  | ,|  |_.'|  |   / :   |  |   |  .--' |  .  '.'|  |   |  | .-._)   \
+    |  | \   |     `'  '-'  '       |      |   |  | |  |   |  |   |  `---.       |  |   |  |(_|  |   |  '--'  /   |  |   |  `---.|  |\  \ |  |   |  | \       /
+    `--'  `--'       `-----'        `------'   `--' `--'   `--'   `------'       `--'   `--'  `--'   `-------'    `--'   `------'`--' '--'`--'   `--'  `-----'
+
+     /$$   /$$                 /$$                   /$$                     /$$      /$$ /$$       /$$   /$$
+    | $$$ | $$                | $$                  | $$                    | $$$    /$$$|__/      | $$  | $$
+    | $$$$| $$  /$$$$$$       | $$        /$$$$$$  /$$$$$$    /$$$$$$       | $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$    /$$$$$$   /$$$$$$  /$$$$$$/$$$$   /$$$$$$$
+    | $$ $$ $$ /$$__  $$      | $$       |____  $$|_  $$_/   /$$__  $$      | $$ $$/$$ $$| $$ /$$__  $$|_  $$_/   /$$__  $$ /$$__  $$| $$_  $$_  $$ /$$_____/
+    | $$  $$$$| $$  \ $$      | $$        /$$$$$$$  | $$    | $$$$$$$$      | $$  $$$| $$| $$| $$  | $$  | $$    | $$$$$$$$| $$  \__/| $$ \ $$ \ $$|  $$$$$$
+    | $$\  $$$| $$  | $$      | $$       /$$__  $$  | $$ /$$| $$_____/      | $$\  $ | $$| $$| $$  | $$  | $$ /$$| $$_____/| $$      | $$ | $$ | $$ \____  $$
+    | $$ \  $$|  $$$$$$/      | $$$$$$$$|  $$$$$$$  |  $$$$/|  $$$$$$$      | $$ \/  | $$| $$|  $$$$$$$  |  $$$$/|  $$$$$$$| $$      | $$ | $$ | $$ /$$$$$$$/
+    |__/  \__/ \______/       |________/ \_______/   \___/   \_______/      |__/     |__/|__/ \_______/   \___/   \_______/|__/      |__/ |__/ |__/|_______/
+
+- Reminders
+    ---> Midterm DUE TOMORROW 11:59 PM <---
+    Linked List Reading Due Monday
+    Valgrind Reading Due Monday
+- Agenda
+    Templates
+    Exceptions
+    Valgrind
+x TODO
+    x Email those who have not yet taken the midterm
+
+
+2018-10-17
+- Housekeeping
+    Lab 5 - Actually you can get help! Hooray!
+    TAs will start lab verifications next week
+    Midterm open today through Saturday
+      Schedule 2-3 hours to take it through Canvas
+      24 questions for 60 points
+      1 sheet of notes made by you
+      NO LATE MIDTERMS
+- Reminders
+    Lab 4 DUE TONIGHT - The autograde server is up and running! (And the peasants rejoiced!)
+      About 1/3 hasn't turned it in yet
+    Sorting Quiz DUE TONIGHT
+    Exceptions Reading DUE TONIGHT
+    Midterm DUE SATURDAY (not accepted late)
+- Midterm Review
+    UML is-a and has-a
+    Evaluate postfix expression using a stack
+    Strengths and limitations of data types (vector, list, stack, queue, priority queue, set, map)
+    Tracing recursive functions
+    Recursive function design (base case, recursive call, etc.)
+    Tracing binary search
+    Merge sort
+    Insertion sort
+    Big-O input size and runtime tables
+
+
+2018-10-15
+- Housekeeping
+    Lab passoff server may be down? TAs looking into it. I'll keep you updated.
+    Midterm open 10/17 - 10/20 (Wed-Sat next week)
+- Reminders
+    LAB 4 DUE TONIGHT (if passoff server gets fixed in time...)
+    Sorting Quiz Due Wednesday
+    Exceptions Reading Due Wednesday
+- Agenda
+    Quicksort
+    Lab 5 Intro
+
+
+2018-10-12
+- Housekeeping
+    Campuswire - Email Notifications are a thing now!!!
+    Midterm open 10/17 - 10/20 (Wed-Sat next week)
+      Closes SATURDAY AT MIDNIGHT. If you have not SUBMITTED by then, you will receive a 0. NO LATE MIDTERMS
+
+         .-') _                                 ('-.     .-') _     ('-.         _   .-')            _ .-') _   .-') _     ('-.  _  .-')  _   .-')      .-')
+        ( OO ) )                               ( OO ).-.(  OO) )  _(  OO)       ( '.( OO )_         ( (  OO) ) (  OO) )  _(  OO)( \( -O )( '.( OO )_   ( OO ).
+    ,--./ ,--,'  .-'),-----.        ,--.       / . --. //     '._(,------.       ,--.   ,--.) ,-.-') \     .'_ /     '._(,------.,------. ,--.   ,--.)(_)---\_)
+    |   \ |  |\ ( OO'  .-.  '       |  |.-')   | \-.  \ |'--...__)|  .---'       |   `.'   |  |  |OO),`'--..._)|'--...__)|  .---'|   /`. '|   `.'   | /    _ |
+    |    \|  | )/   |  | |  |       |  | OO ).-'-'  |  |'--.  .--'|  |           |         |  |  |  \|  |  \  ''--.  .--'|  |    |  /  | ||         | \  :` `.
+    |  .     |/ \_) |  |\|  |       |  |`-' | \| |_.'  |   |  |  (|  '--.        |  |'.'|  |  |  |(_/|  |   ' |   |  |  (|  '--. |  |_.' ||  |'.'|  |  '..`''.)
+    |  |\    |    \ |  | |  |      (|  '---.'  |  .-.  |   |  |   |  .--'        |  |   |  | ,|  |_.'|  |   / :   |  |   |  .--' |  .  '.'|  |   |  | .-._)   \
+    |  | \   |     `'  '-'  '       |      |   |  | |  |   |  |   |  `---.       |  |   |  |(_|  |   |  '--'  /   |  |   |  `---.|  |\  \ |  |   |  | \       /
+    `--'  `--'       `-----'        `------'   `--' `--'   `--'   `------'       `--'   `--'  `--'   `-------'    `--'   `------'`--' '--'`--'   `--'  `-----'
+
+- Reminders
+    Quicksort Reading - DUE TONIGHT
+    Lab 4 - DUE MONDAY
+- Agenda
+    Merge sort
+    Lab 4
+
+
+2018-10-10
+- Housekeeping
+    Campuswire
+- Reminders
+    Merge Sort Reading - DUE TONIGHT
+    Quicksort Reading - Due Friday
+    Lab 4 - DUE MONDAY
+- Agenda
+    iClicker question
+    Insertion sort activity
+    Debugging
+    Lab 4 (if time)
+
+
+2018-10-08
+- Housekeeping
+    Lab 3 - Follow-up
+    Make sure you turn in all 3 parts! (Google Sheet passoff, paragraph for "Lab 3 Maps" assignment, C9 URL for "Lab 3 Verification" assignment)
+- Reminders
+    Sorting Reading - DUE TONIGHT
+    Merge Sort Reading - Due Wednesday
+    Lab 4 - DUE NEXT MONDAY
+- Agenda
+    iClicker question
+    Big O
+    Interview question - Write a function that takes two lists of numbers. The two lists have the same contents except one has an extra number. Return the extra number.
+    Work on Lab 4
+
+
+2018-10-05
+- Reminders
+    Big-O Reading DUE TONIGHT
+    Start Lab 4!
+- Agenda
+    x Finish Boggle
+      x solveBoard
+      x working demo
+      x recursion tree, branch and bound
+    x Lab 3 Passoff
+    x Lab 4 Intro (if time)
+
+
+2018-10-03
+- Housekeeping
+    Any questions about lab 3?
+    Any questions about recursive search reading?
+- Reminders
+    Lab 3 - DUE FRIDAY BEFORE CLASS
+    Big O Reading - Due Friday night
+- Recursion and recursive search
+    iClicker question
+    Boggle
+      x Review Monday
+        x createRandomBoard
+        x importDictionary
+        x setMinWordLength
+      x isWord
+      x isPrefix
+      x findPrefix
+      x findWords
+      solveBoard
+x TODO
+    x Fix Lab 3 Canvas due date - Friday at 11:00 AM
+
+
+2018-10-01
+- Housekeeping
+    Debugging in Cloud9 (check Campuswire)
+    Any questions about lab 3?
+- Reminders
+    Recursive Search Reading - DUE TONIGHT
+    Survey #2 - DUE TONIGHT
+    Lab 3 - Due Friday BEFORE CLASS
+- Recursion
+    iClicker question
+    Boggle
+      x Overview (boggle.h, main.cpp)
+      x constructor
+      x clear
+      x getBoardString
+      createRandomBoard
+      x importBoard (if time)
+      x setBoard (if time)
+      importDictionary (if time)
+      setMinWordLength (if time)
+
+
+2018-09-28
+- Lab 3 Intro
+    iClicker question
+    pass-by-value versus pass-by-reference (or pass-by-pointer)
+    Lab 3
+    Work on Labs
+- Reminders
+    Lab 2 - DUE TONIGHT
+    Recursion Reading - DUE TONIGHT
+    Recursive Search Reading - Due Monday
+    Survey #2 - Due Monday
+x TODO
+    x Look into using C9 debugger for multi-file projects
+
+
+2018-09-26
+- Housekeeping
+    TA Help Queue - Once you put yourself on the help queue, keep tab open so you get the alert
+    STEM Fair
+    Cloud9 workspaces - ideally everyone should have a single workspace made private and shared with the TAs
+      If you have created multiple workspaces, please get rid of the ones you aren't using
+      You can download your code from one workspace and then upload it to another
+- Maps
+    iClicker question
+    Maps
+    Big O
+    Interview question - Write a function that takes a list of numbers and a target int sum. Return true IFF any two numbers in the list add up to the target sum.
+- Reminders
+    Basic Data Structures Quiz - DUE TONIGHT
+    Lab 2 - DUE FRIDAY
+    Recursion Reading - Due Friday
+
+
+2018-09-24
+- Housekeeping
+    Share C9 workspace with TAs
+    Stacks & Expressions Reading - Extra question
+    Stacks & Expressions - Common misconceptions
+      "Write out the contents of the stack after the calculator reads and acts on each input" - Number of steps = size of input
+      Example: 3 5 + 4 7 - *
+- Sets
+    iClicker question
+    Pairs
+    Sets
+    Big O (if we have time)
+- Reminders
+    Maps Reading - DUE TONIGHT
+    Basic Data Structures Quiz - Due Wednesday
+    Lab 2 - DUE FRIDAY
+x TODO
+    x Lab2 main.cpp - either need to "enter" out or delete getchar() in main.cpp
+
+
+2018-09-21
+- Housekeeping
+                                           ~------------~~-----------~
+    -------------------------------------> Share workspace with TAs!!! <--------------------------------------
+                                           ~------------~~-----------~
+     _____ _                                                                  _                             _  
+    /  ___| |                                                                | |                           | |
+    \ `--.| |__   __ _ _ __ ___   _   _  ___  _   _ _ __  __      _____  _ __| | _____ _ __   __ _  ___ ___| | 
+     `--. \ '_ \ / _` | '__/ _ \ | | | |/ _ \| | | | '__| \ \ /\ / / _ \| '__| |/ / __| '_ \ / _` |/ __/ _ \ | 
+    /\__/ / | | | (_| | | |  __/ | |_| | (_) | |_| | |     \ V  V / (_) | |  |   <\__ \ |_) | (_| | (_|  __/_| 
+    \____/|_| |_|\__,_|_|  \___|  \__, |\___/ \__,_|_|      \_/\_/ \___/|_|  |_|\_\___/ .__/ \__,_|\___\___(_) 
+                                   __/ |                                              | |                      
+                                  |___/                                               |_|
+
+    Stacks, Lists, & Queues Quiz - Single attempt quiz
+- Vectors, Stacks, Lists, & Queues
+    Performance Learning Activity
+    Big O Intro
+- Work on Labs in class
+- Reminders
+    Lab 1 - DUE TONIGHT
+    Stacks, Lists, & Queues Quiz - DUE TONIGHT
+    Sets and Big O Reading - DUE TOMORROW (Saturday) NIGHT
+    Maps Reading - Due Monday
+
+
+2018-09-19
+- Housekeeping
+    Remember to check Campuswire
+    Stacks and Expressions Reading - additional question (DUE DATE WAIVED)
+    Please take advantage of all online resources
+    Lab 1 - DUE TONIGHT FOR EXTRA CREDIT (10 pts extra)
+    Lab 1 - OFFICIALLY DUE FRIDAY
+    Lab 1 - Share workspace with tas
+- Stacks and Expressions
+    iClicker Question
+    Lab 2 Intro
+    Postfix Evaluation Learning Activity
+- Reminders
+    Lab 1 DUE TONIGHT FOR EXTRA CREDIT (10 pts extra)
+    Lab 1 OFFICIALLY DUE FRIDAY
+    Lists Reading DUE TONIGHT
+    Stacks, Lists, & Queues Quiz due Friday night
+    Sets and B-O Reading due Friday night
+x TODO
+    x Canvas announcement about Lab 1 changes
+    x Canvas announcement about Stacks and Expressions Reading changes
+
+
+2018-09-17
+- Housekeeping
+    Remember to check Campuswire (TAs are on it now too)
+    Lab 1 submission demonstration
+- Pinewood Derby example continued
+- Reminders
+    Lab 1 DUE WEDNESDAY NIGHT
+    Queues Reading DUE TONIGHT
+    Lists Reading due Wednesday night
+x TODO
+    x Put my version of the pinewood derby code on github and send link to everyone
+
+
+2018-09-14
+- Housekeeping
+    Check Campuswire to see Lab 1 questions and notes
+    TA help sessions (Linux and C++ basics)
+    Lab turn in overview
+- Pinewood Derby example (lots of similarities to Lab 1)
+- Reminders
+    Lab 1 Due Wednesday
+    Stacks Reading DUE TONIGHT
+    Queues Reading due Monday night
+x TODO
+    x If you use an initializer to pass up to parent constructor, can you combine with initializer for other member variables as well?
+
+
+2018-09-12
+- Housekeeping
+    Questions on C++ Objects reading?
+    TA help sessions (Linux and C++ basics)
+- Linux/Bash Activity
+- Lab 1 Intro
+    Review cheating policy
+- Reminders
+    Get Lab 1 going! Due in 1 week!
+    Inheritance Reading DUE TODAY
+    Stacks reading due Friday
+
+
+2018-09-10
+- Housekeeping
+    Due dates - due at end of day
+    Campuswire access (code 6437)
+      Review FAQ
+    Reading assignments - open everything, try multiple times
+- C++ Objects Activity
+    git clone https://github.com/BYU-CS235-F18/Book.git
+    Work alone or with a small group (2-3) to answer questions
+    Setup C9 if haven't already
+- Lab 1 Intro
+- Reminders
+    Refresh Activity DUE TODAY
+    C++ Objects Reading DUE TODAY
+    Survey was due Friday (do it if you haven't yet for 10% off)
+
+
+2018-09-07
+- Housekeeping
+    Canvas access
+    Cloud9 access
+    Campuswire access (code 6437)
+- C++ Refresh
+- Reminders
+    Refresh lab due MONDAY (changed)
+    Survey due TONIGHT
+x TODO
+    x Second Cloud9 team
+    x Cloud9 - text editor options (format spaces, etc.)
+    x Append to learning command line file with most frequent commands
+    x Share GitHub URL for Lab 0
+    x Campuswire - how to get @byu.edu email
+
+
+2018-09-05
+- Canvas
+- Syllabus
+- Introduction
+- Schedule
+- C++ Refresh
+- Class
+    Check Canvas emails
+    Check Learning Suite setup
+    Check Campuswire join code
